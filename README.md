@@ -1,11 +1,3 @@
-#### Title
-## Je rajoute une image statique
-![Destination plage paradisiaque](https://www.voyageavecnous.fr/wp-content/uploads/2015/01/plage-paradisiaque-maldives.jpg)
-
-## Je rajoute une image animée !  
-![image gif](https://i.giphy.com/media/l4pTfx2qLszoacZRS/giphy.webp)
-
-
 **Une liste à puce**
 
 * Une première puce
@@ -17,6 +9,26 @@
 1. La première
 2. La seconde
 3. La troisième
+
+
+
+**2 ou 3 niveaux de titres et sous-titres**
+
+# This is an
+## This is an
+###### This is an
+
+**des liens**
+http://github.com - automatic!
+
+
+
+## Je rajoute une image statique
+![Destination plage paradisiaque](https://www.voyageavecnous.fr/wp-content/uploads/2015/01/plage-paradisiaque-maldives.jpg)
+
+## Je rajoute une image animée !  
+![image gif](https://i.giphy.com/media/l4pTfx2qLszoacZRS/giphy.webp)
+
 
 
 **Une liste (à puce ou ordonnée) imbriquées**
@@ -49,12 +61,5 @@
     alert("Hello!");
 </script>
 ```
+**Et voici le lien vers** [`another-mark-down.md`](another-mark-down.md)
 
-**2 ou 3 niveaux de titres et sous-titres**
-
-# This is an
-## This is an
-###### This is an
-
-**des liens**
-http://github.com - automatic!
