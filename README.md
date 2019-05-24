@@ -66,5 +66,7 @@ Rendez-vous sur [`another-mark-down.md`](another-mark-down.md) pour la suite des
  **[`Valene`](https://github.com/valenedemazy)** : *"Je pense que becode est un espace de travail interactif adapté au developpement web, où autonomie et entraide collective ne font qu'un afin de pouvoir tous ensemble accroître nos connaissance."*  
 
  ##
- ##  
+&nbsp;
+&nbsp;
+&nbsp;
  **Et voici le lien vers** [`another-mark-down.md`](another-mark-down.md)
