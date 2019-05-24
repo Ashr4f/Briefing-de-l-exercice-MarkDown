@@ -24,7 +24,7 @@ IMPORTANT : ça ne marche qu'avec des url d'images prises sur le web.!
     * Une sous-puce 
 ```
 
--Pour **ajouter un bout de code** il vous suffit d'entourer votre morceau de code avec deux accents graves. Pour faire un accent grave, il vous suffira de rechercher en fonction de votre clavier.
+-Pour **ajouter un bout de code** il vous suffit d'entourer votre morceau de code avec trois accents graves. Pour faire un accent grave, il vous suffira de rechercher en fonction de votre clavier.
 
 <pre>
 ```
@@ -50,9 +50,7 @@ int main()
         1. Ordered list
         2. Ordered list
         3. Ordered list
-            * Unordered list
-            * Unordered list
-            * Unordered list
+           
 
 **Exemple d'une liste ordonnée, imbriquées**
 
@@ -63,9 +61,7 @@ int main()
         * Unordered list
         * Unordered list
         * Unordered list
-            1. Ordered list
-            2. Ordered list
-            3. Ordered list  
+             
             
 
 **Exemple d'un bout de code**
