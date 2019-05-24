@@ -6,6 +6,19 @@
 ![image gif](https://i.giphy.com/media/l4pTfx2qLszoacZRS/giphy.webp)
 
 
+**Une liste à puce**
+
+* Une première puce
+* Une seconde puce
+* Une troisième puce
+
+**Une liste numérotée**
+
+1. La première
+2. La seconde
+3. La troisième
+
+
 **Une liste (à puce ou ordonnée) imbriquées**
 1. Ordered list:
     * Unordered list
@@ -41,7 +54,7 @@
 
 # This is an
 ## This is an
-###### This is an 
+###### This is an
 
 **des liens**
 http://github.com - automatic!
