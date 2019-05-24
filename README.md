@@ -1,3 +1,5 @@
+## **Voici le travail du groupe: [`Ashraf`](https://github.com/Ashr4f) , [`Christine`](https://github.com/chrisbetbeder), [`Mansan`](https://github.com/mansan1souleiman1ahmed) et [`Valene`](https://github.com/valenedemazy)**
+
 #### Christine :
 -Pour créé une **liste à puce** il faut simplement placer un astérisque devant.
 
