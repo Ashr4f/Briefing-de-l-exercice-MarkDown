@@ -3,30 +3,29 @@
 #### Christine :
 -Pour créé une **liste à puce** il faut simplement placer un astérisque devant.
 
-`* Une puce`
-`* Une autre puce`
-`* Et encore une autre puce! `
+`* Une puce`  
+`* Une autre puce`  
+`* Et encore une autre puce! `  
 
 -Et pour **une liste numérotée** il faut placer un chiffre sans espace suivie d'un chiffre.
 
-`1. Et de un`
-`2. Et de deux `
-`3. Et de trois`
+`1. Et de un`  
+`2. Et de deux `  
+`3. Et de trois`  
 
 
 **Exemple d'une liste à puce :**
 
-* Une première puce
-* Une seconde puce
-* Une troisième puce
+* Une première puce  
+* Une seconde puce  
+* Une troisième puce  
 
 
 **Exemple d'une liste numérotée :**
 
-1. La première
-2. La seconde
-3. La troisième
-
+1. La première  
+2. La seconde  
+3. La troisième  
 
 #### Mansan  :
 -Pour un **titre** de niveau 1 (h1), il faut placer un  `#titre` devant votre titre.
@@ -39,13 +38,9 @@
 
 # This is an
 ## This is an
-###### This is an  
-##
-##
-##
-##
+###### This is an        
 
-**Exemple de liens :**
+**Exemple de liens :**  
 
 http://github.com - automatic!
 Rendez-vous sur [Simplonline](http://www.simplonline.com) !
@@ -53,16 +48,9 @@ Rendez-vous sur [Simplonline](http://www.simplonline.com) !
 
 
 
-#### Ashraf :
+#### Ashraf :  
 
-
-Rendez-vous sur [`another-mark-down.md`](another-mark-down.md) pour la suite des travaux.
-##
-##
-##
-
-
-
+Rendez-vous sur [`another-mark-down.md`](another-mark-down.md) pour la suite des travaux.      
 
 ## Avis sur BeCode :
 
