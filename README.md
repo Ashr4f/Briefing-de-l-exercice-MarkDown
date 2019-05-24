@@ -26,13 +26,3 @@ http://github.com - automatic!
 
 
 **Et voici le lien vers** [`another-mark-down.md`](another-mark-down.md)
-
-
-https://github.com/valenedemazy
-
-
-
-https://github.com/
-
-https://github.com/mansan1souleiman1ahmed
-
