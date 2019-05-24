@@ -1,10 +1,24 @@
-## Je rajoute une image statique
+#### Valène :
+
+-Pour ajouté **une image statique ou animée** la syntaxe est la même que pour un lien, il suffit juste d'ajouter **un point d'exclamation devant les crochets.**
+Ce que vous mettez entre crochet est le texte alternatif de l'image.
+
+IMPORTANT : ça ne marche qu'avec des url d'images prises sur le web.!
+
+
+**Exemple d'image statique**
+
 ![Destination plage paradisiaque](https://www.voyageavecnous.fr/wp-content/uploads/2015/01/plage-paradisiaque-maldives.jpg)
 
-## Je rajoute une image animée !  
+![Image](https://i.imgur.com/fBIp4oh.jpg)
+
+**Exemple d'image animée**
+ 
 ![image gif](https://i.giphy.com/media/l4pTfx2qLszoacZRS/giphy.webp)
 
+#### Ashraf :
 
+-Pour imbriquer une **liste dans une autre liste** il faut ajouter quatre espaces avant d'encoder la puce que l'on souhaite imbriqué.
 
 **Une liste (à puce ou ordonnée) imbriquées**
 1. Ordered list:
