@@ -36,12 +36,15 @@
 
 **Exemple de 2 ou 3 niveaux de titres et sous-titres :**
 
-# This is an
-## This is an
-###### This is an  
-##
-##
-##
+# This is an  
+## This is an  
+###### This is an 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 **Exemple de liens :**  
 
