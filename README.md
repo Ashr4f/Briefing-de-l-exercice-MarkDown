@@ -69,4 +69,4 @@ Rendez-vous sur [`another-mark-down.md`](another-mark-down.md) pour la suite des
 &nbsp;
 &nbsp;
 &nbsp;
- **Et voici le lien vers** [`another-mark-down.md`](another-mark-down.md)
+**Et voici le lien vers** [`another-mark-down.md`](another-mark-down.md)
